@@ -14,7 +14,7 @@ Selenium, Cucumber, Junit, RestAssured, JavaFaker, Appium, Github Bonigarcia(Web
 
 Description : For mobile testing 23 out of 24 test steps has been automated successfully in one Scenario, 
 1 unnecessary step skipped which is "And Swipe left to “Series” section", because there is no Series section  
-in options after searching. I try to add each test step Thread.Sleep to be able to see each and every steps clearly
+in options after searching. I try to add some test steps Thread.Sleep to be able to see the steps clearly
 -There is an issue in step 22 "When Click Filter" which I couldn't see filter directly and I clicked to by Author 
 to be able to see filter, because -This title is not available in your current location- error message is occured
 
