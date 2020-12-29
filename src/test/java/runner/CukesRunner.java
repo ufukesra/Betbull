@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
                 "html:target/default-cucumber-reports"},
         features = {"src/test/resources/features"},
         glue = {"step_definitions"},
-        //tags = {"@api","@mobile","web"},
+        //tags = {"@api,@mobile,@web"},
         dryRun = false
 )
 public class CukesRunner {

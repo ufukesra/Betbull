@@ -15,6 +15,8 @@ Selenium, Cucumber, Junit, RestAssured, JavaFaker, Appium, Github Bonigarcia(Web
 Description : For mobile testing 23 out of 24 test steps has been automated successfully in one Scenario, 
 1 unnecessary step skipped which is "And Swipe left to “Series” section", because there is no Series section  
 in options after searching. I try to add each test step Thread.Sleep to be able to see each and every steps clearly
+-There is an issue in step 22 "When Click Filter" which I couldn't see filter directly and I clicked to by Author 
+to be able to see filter, because -This title is not available in your current location- error message is occured
 
 Tools: Java, Cucumber, Appium, Android Studio.
 
@@ -55,12 +57,12 @@ This is a BDD framework because Cucumber natively supports BDD. It is created ba
         QUESTIONS AND ANSWERS
         
  Q1-Which automation frameworks are you using in your current job?
- A1-Behavioral Driven Development Framework and Data Driven Development  Frameworks
+ A1-Behaviour Driven Development Framework(BDD) and Data Driven Development Framework (DDT)
  
  Q2-Do you use any Device Farm for automation? Please specify
  A2-AWS EC2 Instance for Jenkins job to run test framework on cloud computer and also familiar with Azure Devops.
  
  Q3-Which technologies/tools do you use for automation of WEB/Mobile/BE platforms? 
- A3-Java, Selenium, Cucumber, JUnit, TestNG, Gherkin,  IntelliJ, Github, Jenkins, RestAssured, Postman, Microsoft SQL Server,
- Oracle SQL Developer, Appium, Android Studio.
+ A3-Java, Selenium, Cucumber, JUnit, TestNG, Gherkin,  IntelliJ, Github, Jenkins, RestAssured, Postman,
+  Microsoft SQL Server, Oracle SQL Developer, Appium, Android Studio.
  
